@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--activity_editor.xml dimensions-->
+    <dimen name="editor_main_linear_layout_padding">16dp</dimen>
+    <dimen name="overivew_spacing_margin_top">16dp</dimen>
+    <dimen name="editor_label_top_padding">18dp</dimen>
+
+    <!--activity_catalog.xml dimensions-->
+    <dimen name="floating_button_margin">16dp</dimen>
+    <dimen name="empty_view_textview_padding_top">8dp</dimen>
+
+    <!--list_item.xml dimensions-->
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="list_item_display_price_left_margin">6dp</dimen>
+    <dimen name="list_item_display_quantity_left_margin">6dp</dimen>
+    <dimen name="sale_button_height">38dp</dimen>
+    <dimen name="sale_button_margin_top">6dp</dimen>
+
+    <!--activity_editor.xml dimensions-->
+    <dimen name="add_subtract_button_size">48dp</dimen>
+</resources>
